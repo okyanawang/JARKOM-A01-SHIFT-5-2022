@@ -178,7 +178,8 @@ Pertama, tentukan subnet pada topologi. Setelah itu, setiap subnet akan dicatat 
 
 Setelah mendapatkan jumlah IP dari masing-masing subnet, buat VLSM Treenya. Dengan subnet induk `192.169.0.0` dengan netmask /21, lakukan pembagian IP sampai subnet paling bawah
 
-![image](https://user-images.githubusercontent.com/90445721/206849873-82a5bd5f-8166-4b25-b6e4-6df89b04a8f1.png)
+![image](https://user-images.githubusercontent.com/32472207/206889221-044aab4d-f22d-4ebc-89e0-dae033b5f5da.png)
+
 
 Gambar di bawah ini adalah hasil pembagian dari VLSM Tree. Dengan NID per setiap subnet dan nama devicenya.
 
